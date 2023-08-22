@@ -25,8 +25,9 @@
 
 ## Exemplos de Aula
 
-| Exemplo |
-|:--------|
+| Exemplo                                                                               |
+|:--------------------------------------------------------------------------------------|
+| [01_manipulacao.R](https://curso-r.github.io/202308-r4ds-2/exemplos/01_manipulacao.R) |
 
 ## Exercícios
 
