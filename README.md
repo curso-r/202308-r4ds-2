@@ -29,6 +29,9 @@
 |:--------------------------------------------------------------------------------------|
 | [01_manipulacao.R](https://curso-r.github.io/202308-r4ds-2/exemplos/01_manipulacao.R) |
 | [02_strings.R](https://curso-r.github.io/202308-r4ds-2/exemplos/02_strings.R)         |
+| [03-datas.R](https://curso-r.github.io/202308-r4ds-2/exemplos/03-datas.R)             |
+| [03-duvidas.R](https://curso-r.github.io/202308-r4ds-2/exemplos/03-duvidas.R)         |
+| [03-fatores.R](https://curso-r.github.io/202308-r4ds-2/exemplos/03-fatores.R)         |
 
 ## Exercícios
 

@@ -79,3 +79,4 @@ conteúdo da aula).
 - Twitter: https://twitter.com/curso_r
 - LinkedIn: https://www.linkedin.com/company/curso-r/
 - Facebook: https://www.facebook.com/cursodeR
+
