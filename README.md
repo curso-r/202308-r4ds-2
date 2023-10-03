@@ -35,6 +35,7 @@
 | [03-fatores.R](https://curso-r.github.io/202308-r4ds-2/exemplos/03-fatores.R)                   |
 | [04_controle_funcoes.R](https://curso-r.github.io/202308-r4ds-2/exemplos/04_controle_funcoes.R) |
 | [05_funcional.R](https://curso-r.github.io/202308-r4ds-2/exemplos/05_funcional.R)               |
+| [06_metaprogramacao.R](https://curso-r.github.io/202308-r4ds-2/exemplos/06_metaprogramacao.R)   |
 
 ## Exercícios
 
